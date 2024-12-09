@@ -1,6 +1,7 @@
 def ff():
     return 'hi'
 
+
 def main():
     print(ff())
 
