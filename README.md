@@ -1,3 +1,2 @@
 # Python Exercises
-- LeetCode Q&A's
-- Interview Questions
+- [LeetCode](https://github.com/LuciaHeredia/PythonExercises/tree/master/LeetCode) 
