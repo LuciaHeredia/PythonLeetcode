@@ -1,3 +1,4 @@
+# Python Leetcode Exercises
 ## [Easy:](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Easy.py)
 * [remove Element In Array](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Easy.py#L7)
 * [remove Duplicates](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Easy.py#L32) - Remove Duplicates(in-place) from Sorted Array(non-decreasing order).
@@ -44,3 +45,5 @@
 * [ones Minus Zeros](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Medium.py#L116) - Difference Between Ones and Zeros in Row and Column.
 * [max Operations](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Medium.py#L144) - Max Number of K-Sum Pairs.
 * [finding Users Active Minutes](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Medium.py#L163) - Finding the Users Active Minutes.
+
+## [Hard:](https://github.com/LuciaHeredia/PythonExercises/blob/master/LeetCode/Hard.py)
